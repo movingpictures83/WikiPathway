@@ -1,0 +1,279 @@
+***************************************
+
+id: WP4172
+name: PI3K-Akt Signaling Pathway
+species: Homo sapiens
+revision: 106781
+hasData: False
+score: {'0': '0.017194314'}
+***************************************
+***************************************
+
+id: WP3250
+name: Cardiac Hypertrophic Response
+species: Bos taurus
+revision: 105982
+hasData: False
+score: {'0': '0.058359437'}
+***************************************
+***************************************
+
+id: WP3121
+name: Physiological and Pathological Hypertrophy  of the Heart
+species: Bos taurus
+revision: 105935
+hasData: False
+score: {'0': '0.055021808'}
+***************************************
+***************************************
+
+id: WP1528
+name: Physiological and Pathological Hypertrophy  of the Heart
+species: Homo sapiens
+revision: 106695
+hasData: False
+score: {'0': '0.055021808'}
+***************************************
+***************************************
+
+id: WP3678
+name: Amplification and Expansion of Oncogenic Pathways as Metastatic Traits
+species: Homo sapiens
+revision: 108162
+hasData: False
+score: {'0': '0.055021808'}
+***************************************
+***************************************
+
+id: WP2795
+name: Cardiac Hypertrophic Response
+species: Homo sapiens
+revision: 106724
+hasData: False
+score: {'0': '0.048632864'}
+***************************************
+***************************************
+
+id: WP4426
+name: G alpha (12/13) signalling events
+species: Homo sapiens
+revision: 101711
+hasData: False
+score: {'0': '0.041694'}
+***************************************
+***************************************
+
+id: WP1178
+name: Regulation of Actin Cytoskeleton
+species: Canis familiaris
+revision: 72086
+hasData: False
+score: {'0': '0.03890629'}
+***************************************
+***************************************
+
+id: WP1380
+name: Regulation of Actin Cytoskeleton
+species: Danio rerio
+revision: 72128
+hasData: False
+score: {'0': '0.03890629'}
+***************************************
+***************************************
+
+id: WP1062
+name: Regulation of Actin Cytoskeleton
+species: Bos taurus
+revision: 80894
+hasData: False
+score: {'0': '0.03890629'}
+***************************************
+***************************************
+
+id: WP944
+name: Regulation of Actin Cytoskeleton
+species: Pan troglodytes
+revision: 72131
+hasData: False
+score: {'0': '0.03890629'}
+***************************************
+***************************************
+
+id: WP51
+name: Regulation of Actin Cytoskeleton
+species: Homo sapiens
+revision: 107553
+hasData: False
+score: {'0': '0.03890629'}
+***************************************
+***************************************
+
+id: WP351
+name: Regulation of Actin Cytoskeleton
+species: Rattus norvegicus
+revision: 109392
+hasData: False
+score: {'0': '0.03890629'}
+***************************************
+***************************************
+
+id: WP523
+name: Regulation of Actin Cytoskeleton
+species: Mus musculus
+revision: 109403
+hasData: False
+score: {'0': '0.03890629'}
+***************************************
+***************************************
+
+id: WP824
+name: Regulation of Actin Cytoskeleton
+species: Gallus gallus
+revision: 109469
+hasData: False
+score: {'0': '0.03890629'}
+***************************************
+***************************************
+
+id: WP4360
+name: Regulation of Actin Cytoskeleton
+species: Danio rerio
+revision: 102807
+hasData: False
+score: {'0': '0.034388628'}
+***************************************
+***************************************
+
+id: WP1560
+name: MicroRNAs in Cardiomyocyte Hypertrophy
+species: Mus musculus
+revision: 106855
+hasData: False
+score: {'0': '0.029179718'}
+***************************************
+***************************************
+
+id: WP1544
+name: MicroRNAs in cardiomyocyte hypertrophy
+species: Homo sapiens
+revision: 108800
+hasData: False
+score: {'0': '0.029179718'}
+***************************************
+***************************************
+
+id: WP2075
+name: Alzheimers Disease
+species: Mus musculus
+revision: 108253
+hasData: False
+score: {'0': '0.027510904'}
+***************************************
+***************************************
+
+id: WP4422
+name: G alpha (z) signalling events
+species: Homo sapiens
+revision: 101715
+hasData: False
+score: {'0': '0.024072042'}
+***************************************
+***************************************
+
+id: WP1396
+name: Non-odorant GPCRs
+species: Mus musculus
+revision: 69993
+hasData: False
+score: {'0': '0.024072042'}
+***************************************
+***************************************
+
+id: WP3632
+name: Lung fibrosis
+species: Mus musculus
+revision: 104818
+hasData: False
+score: {'0': '0.024072042'}
+***************************************
+***************************************
+
+id: WP3931
+name: ESC Pluripotency Pathways
+species: Homo sapiens
+revision: 106768
+hasData: False
+score: {'0': '0.024072042'}
+***************************************
+***************************************
+
+id: WP2059
+name: Alzheimers Disease
+species: Homo sapiens
+revision: 108233
+hasData: False
+score: {'0': '0.024072042'}
+***************************************
+***************************************
+
+id: WP339
+name: ESC Pluripotency Pathways
+species: Mus musculus
+revision: 108619
+hasData: False
+score: {'0': '0.024072042'}
+***************************************
+***************************************
+
+id: WP3624
+name: Lung fibrosis
+species: Homo sapiens
+revision: 110182
+hasData: False
+score: {'0': '0.024072042'}
+***************************************
+***************************************
+
+id: WP4424
+name: G alpha (q) signalling events
+species: Homo sapiens
+revision: 101713
+hasData: False
+score: {'0': '0.020847'}
+***************************************
+***************************************
+
+id: WP2841
+name: Focal Adhesion-PI3K-Akt-mTOR-signaling pathway
+species: Mus musculus
+revision: 94308
+hasData: False
+score: {'0': '0.02063318'}
+***************************************
+***************************************
+
+id: WP3932
+name: Focal Adhesion-PI3K-Akt-mTOR-signaling pathway
+species: Homo sapiens
+revision: 106555
+hasData: False
+score: {'0': '0.02063318'}
+***************************************
+***************************************
+
+id: WP4427
+name: G alpha (s) signalling events
+species: Homo sapiens
+revision: 101710
+hasData: False
+score: {'0': '0.017868856'}
+***************************************
+***************************************
+
+id: WP4423
+name: G alpha (i) signalling events
+species: Homo sapiens
+revision: 101714
+hasData: False
+score: {'0': '0.017868856'}
+***************************************
